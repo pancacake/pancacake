@@ -1,10 +1,17 @@
-## Hi there 👋
-
+## Hi there👋 
+I'm Bingxi (Frank) Zhao, a keen learner about LLM Agent and Intelligent System. 
+I'm looking forward to doing something that is beneficial for the whole community.
+- 👀 I’m interested in LLM Agent and Autonomous Driving.
+- 🌱 I’m currently seeking for PhD opportunities.
+- ⚡ Previously I've collaborate with
+  Prof. Jiangtao Gong @ Tshinghua University
+  Prof. Jun Liu @ Lancaster University
+  Prof. Bo Gao @ Beijing Jiaotong University
+- 📫 How to reach me: 23721035@bjtu.edu.cn
 <!--
 **pancacake/pancacake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
