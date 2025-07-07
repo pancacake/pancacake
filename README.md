@@ -1,5 +1,5 @@
 ## Hi there👋 
-I'm Bingxi (Frank) Zhao, a keen learner about LLM Agent and Intelligent System. 
+I'm Bingxi _(Frank)_ Zhao, a keen learner about LLM Agent and Intelligent System. 
 I'm looking forward to doing something that is beneficial for the whole community.
 - 👀 I’m interested in LLM Agent and Autonomous Driving.
 - 🌱 I’m currently seeking for PhD opportunities.
