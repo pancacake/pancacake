@@ -4,9 +4,9 @@ I'm looking forward to doing something that is beneficial for the whole communit
 - 👀 I’m interested in LLM Agent and Autonomous Driving.
 - 🌱 I’m currently seeking for PhD opportunities.
 - ⚡ Previously I've collaborate with
-  Prof. Jiangtao Gong @ Tshinghua University
-  Prof. Jun Liu @ Lancaster University
-  Prof. Bo Gao @ Beijing Jiaotong University
+  - Prof. Jun Liu @ Lancaster University
+  - Prof. Jiangtao Gong @ Tshinghua University
+  - Prof. Bo Gao @ Beijing Jiaotong University
 - 📫 How to reach me: 23721035@bjtu.edu.cn
 <!--
 **pancacake/pancacake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
