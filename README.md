@@ -3,7 +3,7 @@ I'm Bingxi _(Frank)_ Zhao, a keen learner about LLM Agent and Intelligent System
 I'm looking forward to doing something that is _beneficial for the whole community_.
 - 👀 I’m specificcally interested in **LLM Agent** and **Human-Computer Interaction**.
 - 🌱 I’m currently seeking for PhD opportunities.
-- ⚡ Previously I've collaborate with
+- ⚡ Previously I've collaborate (and collaborating) with
   - Prof. Jun Liu @ Lancaster University
   - Prof. Jiangtao Gong @ Tshinghua University
   - Prof. Bo Gao @ Beijing Jiaotong University
